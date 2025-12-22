@@ -69,41 +69,29 @@ Mi objetivo es **ingresar a la universidad** en la carrera de **Ingeniería en S
 ---
 
 ## Certificaciones
-<details> 
 <summary><strong> SQL (Básico) </strong></summary>
 [Ver certificado](https://www.hackerrank.com/certificates/e82d6b226088)
 <img src="Certificaciones/certificadoSQLBasico.png" alt="Certificado SQL Básico" width="500">
-</details>
 
-<details> 
 <summary><strong> SQL (Intermedio) </strong></summary>
 [Ver certificado](https://www.hackerrank.com/certificates/34fd9d293396)
 <img src="Certificaciones/certificadoSQLIntermedio.png" alt="Certificado SQL (Intermedio)" width="500">
-</details>
 
-<details>
 <summary><strong>JavaScript (Básico) – HackerRank</strong></summary>
 [Ver certificado](https://www.hackerrank.com/certificates/b52572c8b2d9)
 <img src="Certificaciones/certificadoJSBasico.png" alt="Certificado JavaScript Básico" width="500">
-</details>
 
-<details>
 <summary><strong>JavaScript (Intermedio) – HackerRank</strong></summary>
 [Ver certificado](https://www.hackerrank.com/certificates/cbee3b05cefc)
 <img src="Certificaciones/certificadoJSIntermedio.png" alt="Certificado JavaScript Intermedio" width="500">
-</details>
 
-<details> 
 <summary><strong> Python (Básico) </strong></summary>
 [Ver certificado](https://www.hackerrank.com/certificates/54e981ce2747)
 <img src="Certificaciones/pythonBasico.png" alt="Certificado Python Básico" width="500">
-</details>
 
-<details> 
 <summary><strong> ScrumFundamentals </strong></summary>
 [Ver certificado](https://www.scrumstudy.com/certification/verify?type=SFC&number=1122603)
 <img src="Certificaciones/certificadoScrumF.png" alt="Certificado ScrumFundamentals" width="500">
-</details>
 ---
 
 ## Nota
