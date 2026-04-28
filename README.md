@@ -23,11 +23,14 @@ Este perfil refleja mi aprendizaje académico y proyectos prácticos conforme av
 
 ### Lenguajes de programación
 - JavaScript  
-- Python  
+- Python
+- SQL
+- C# (Aprendiendo actualmente)
 
 ### Desarrollo web
 - HTML  
-- CSS  
+- CSS
+- JavaScript (JS)
 
 ### Backend
 - Node.js  
