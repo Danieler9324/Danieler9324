@@ -102,6 +102,11 @@ Visitar certificado (Para ver el PDF de este certificado, deberá ingresar a la 
 
 <img src="Certificaciones/certificadoPythonEssentials.png" alt="Certificado Python Essentials Básico" width="500">
 
+<summary><strong> Python Essentials (Cisco - Intermedio) </strong></summary>
+Visitar certificado (Para ver el PDF de este certificado, deberá ingresar a la carpeta de certificaciones que está en este mismo repositorio): Certificaciones/Python_Essentials_2_certificate.pdf
+
+<img src="Certificaciones/certificadoPythonEssentials2.png" alt="Certificado Python Essentials Intermedio" width="500">
+
 <summary><strong> ScrumFundamentals </strong></summary>
 Visitar certificado: https://www.scrumstudy.com/certification/verify?type=SFC&number=1122603
 
