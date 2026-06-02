@@ -25,6 +25,7 @@ Este perfil refleja mi aprendizaje académico y proyectos prácticos conforme av
 - JavaScript  
 - Python
 - SQL
+- CSS
 - C# (Aprendiendo actualmente)
 
 ### Desarrollo web
