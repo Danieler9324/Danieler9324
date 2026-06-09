@@ -84,7 +84,7 @@ Visitar certificado: https://www.hackerrank.com/certificates/34fd9d293396
 <img src="Certificaciones/certificadoSQLIntermedio.png" alt="Certificado SQL (Intermedio)" width="500">
 
 <summary><strong>JavaScript (Básico) – HackerRank</strong></summary>
-Visitar certificado: https://www.hackerrank.com/certificates/b52572c8b2d9
+Visitar certificado: https://www.hackerrank.com/certificates/50dc9875c06a
 
 <img src="Certificaciones/certificadoJSBasico.png" alt="Certificado JavaScript Básico" width="500">
 
