@@ -64,7 +64,7 @@ Cada proyecto representa una etapa de mi aprendizaje y crecimiento técnico.
 ---
 
 ## Objetivo académico y profesional
-Mi objetivo es **ingresar a la universidad** en la carrera de **Ingeniería en Sistemas**, contando con bases sólidas en programación y experiencia práctica en proyectos de software.
+Mi objetivo es **ingresar a la universidad** en la carrera en **TSU en Desarrollo de Software Multiplataforma**, contando con bases sólidas en programación y experiencia práctica en proyectos de software.
 
 ---
 
@@ -95,7 +95,7 @@ Visitar certificado: https://www.hackerrank.com/certificates/54e981ce2747
 <img src="Certificaciones/pythonBasico.png" alt="Certificado Python Básico" width="500">
 
 <summary><strong> Python Essentials (Cisco - Básico) </strong></summary>
-Visitar certificado (Para ver el PDF de este certifiado, debera ingresar a la carpeta de certificaciones que esate ne este mismo repositorio): Certificaciones/Python_Essentials_1_certificate.pdf
+Visitar certificado (Para ver el PDF de este certifiado, debera ingresar a la carpeta de certificaciones que esta en este mismo repositorio): Certificaciones/Python_Essentials_1_certificate.pdf
 
 <img src="Certificaciones/certificadoPythonEssentials.png" alt="Certificado Python Essentials Básico" width="500">
 
@@ -103,6 +103,11 @@ Visitar certificado (Para ver el PDF de este certifiado, debera ingresar a la ca
 Visitar certificado: https://www.scrumstudy.com/certification/verify?type=SFC&number=1122603
 
 <img src="Certificaciones/certificadoScrumF.png" alt="Certificado ScrumFundamentals" width="500">
+
+<summary><strong> IA con Gemini (Santander Open Academy) </strong></summary>
+Visitar certificado (Para ver el PDF de este certifiado, debera ingresar a la carpeta de certificaciones que esta en este mismo repositorio): Certificaciones/certificadoGeminiSantanderOpenAcadademy.pdf
+
+<img src="Certificaciones/certificadoGeminiSantanderOpenAcademy.png">
 
 ## Nota
 Este perfil se encuentra en constante actualización conforme avanzo en mi formación académica y técnica.  
