@@ -23,11 +23,15 @@ Este perfil refleja mi aprendizaje académico y proyectos prácticos conforme av
 
 ### Lenguajes de programación
 - JavaScript  
-- Python  
+- Python
+- SQL
+- CSS
+- C# (Aprendiendo actualmente)
 
 ### Desarrollo web
 - HTML  
-- CSS  
+- CSS
+- JavaScript (JS)
 
 ### Backend
 - Node.js  
@@ -80,7 +84,7 @@ Visitar certificado: https://www.hackerrank.com/certificates/34fd9d293396
 <img src="Certificaciones/certificadoSQLIntermedio.png" alt="Certificado SQL (Intermedio)" width="500">
 
 <summary><strong>JavaScript (Básico) – HackerRank</strong></summary>
-Visitar certificado: https://www.hackerrank.com/certificates/b52572c8b2d9
+Visitar certificado: https://www.hackerrank.com/certificates/50dc9875c06a
 
 <img src="Certificaciones/certificadoJSBasico.png" alt="Certificado JavaScript Básico" width="500">
 
@@ -95,9 +99,15 @@ Visitar certificado: https://www.hackerrank.com/certificates/54e981ce2747
 <img src="Certificaciones/pythonBasico.png" alt="Certificado Python Básico" width="500">
 
 <summary><strong> Python Essentials (Cisco - Básico) </strong></summary>
-Visitar certificado (Para ver el PDF de este certifiado, debera ingresar a la carpeta de certificaciones que esta en este mismo repositorio): Certificaciones/Python_Essentials_1_certificate.pdf
+
+Visitar certificado (Para ver el PDF de este certificado, deberá ingresar a la carpeta de certificaciones que está en este mismo repositorio): Certificaciones/Python_Essentials_1_certificate.pdf
 
 <img src="Certificaciones/certificadoPythonEssentials.png" alt="Certificado Python Essentials Básico" width="500">
+
+<summary><strong> Python Essentials (Cisco - Intermedio) </strong></summary>
+Visitar certificado (Para ver el PDF de este certificado, deberá ingresar a la carpeta de certificaciones que está en este mismo repositorio): Certificaciones/Python_Essentials_2_certificate.pdf
+
+<img src="Certificaciones/certificadoPythonEssentials2.png" alt="Certificado Python Essentials Intermedio" width="500">
 
 <summary><strong> ScrumFundamentals </strong></summary>
 Visitar certificado: https://www.scrumstudy.com/certification/verify?type=SFC&number=1122603
