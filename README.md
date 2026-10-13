@@ -1,7 +1,7 @@
 # Hola, soy Daniel
 
 ## Sobre mí
-Soy estudiante de **nivel medio superior**, aspirante a **Ingeniería en Sistemas**.  
+Soy estudiante de **nivel superior**, estudiante en **Ingeniería en Sistemas**.  
 Actualmente me encuentro en proceso de formación en programación y desarrollo de software, fortaleciendo mis bases en lógica computacional, desarrollo web y manejo de bases de datos.
 
 Este perfil refleja mi aprendizaje académico y proyectos prácticos conforme avanzo en mi preparación profesional.
@@ -62,13 +62,12 @@ Cada proyecto representa una etapa de mi aprendizaje y crecimiento técnico.
 - Mejora de lógica de programación
 - Estructuración de proyectos backend
 - Buenas prácticas en desarrollo web
-- Uso de bases de datos relacionales
 - Trabajo con frameworks y entornos de desarrollo
 
 ---
 
 ## Objetivo académico y profesional
-Mi objetivo es **ingresar a la universidad** en la carrera en **TSU en Desarrollo de Software Multiplataforma**, contando con bases sólidas en programación y experiencia práctica en proyectos de software.
+Mi objetivo actual es integrarme al ámbito profesional del desarrollo de software, ya sea aportando valor como becario dentro de una empresa tecnológica o gestionando proyectos independientes como freelancer. Busco aplicar mis conocimientos técnicos en entornos reales y continuar expandiendo mis habilidades.
 
 ---
 
